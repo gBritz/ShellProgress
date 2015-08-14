@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>ShellProgress</id>
+    <version>1.0.0.0</version>
+    <title>ShellProgress</title>
+    <authors>Britz</authors>
+    <owners>Britz</owners>
+    <description>Another progress bar to console application</description>
+    <language>pt-BR</language>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/gBritz/ShellProgress</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <developmentDependency>false</developmentDependency>
+    <copyright>Copyright ©  2015</copyright>
+    <tags>console shell progress progressbar</tags>
+  </metadata>
+  <files>
+    <file src="C:\Trabalhos\ShellProgress\ShellProgress\bin\Release\ShellProgress.dll" target="lib\net45" />
+  </files>
+</package>
